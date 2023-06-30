@@ -12,7 +12,6 @@ function input(key) {
     type(key);
   }
   render();
-  window.navigator.vibrate(400);
 }
 
 function enter() {
