@@ -40,8 +40,8 @@ function type(number) {
 }
 
 function correct() {
-  a = Math.floor(Math.random() * 900) + 100;
-  b = Math.floor(Math.random() * 900) + 100;
+  a = Math.floor(Math.random() * 90) + 10;
+  b = Math.floor(Math.random() * 90) + 10;
   red = false;
 }
 
